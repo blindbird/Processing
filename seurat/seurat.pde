@@ -8,7 +8,7 @@ void setup () {
   img=loadImage("tree.png");
   background(255);
   
-  frameRate(2000);
+  frameRate(5000);
 }
 
 //Draw Loop
